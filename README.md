@@ -1,2 +1,4 @@
-# slide-slam
-SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Heterogeneous Robots
+# SLiDe-SLAM
+SLiDeSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Heterogeneous Robots
+
+Code will be released soon.
